@@ -1,5 +1,6 @@
 # Simulation-and-Modeling
 This GitHub repository is a collection of 8 projects for a computer engineering simulations class, designed to explore different aspects of physics, mathematics, and computer science. The project numbers are linked to the names as follows:
+
 0. Ball Bouncing
 1. Gravitational Physics
 2. Planetary Orbits
